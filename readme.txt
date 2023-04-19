@@ -93,4 +93,4 @@ Just remember to deactivate the other plugins before installing this one.
 
 This WordPress plugin is released under the GPL license. You can use it free of charge for personal and commercial use, but further modifications and derivatives have to be released under the same GPL license.
 
-The Add To Homescreen javascript component is released under [MIT license](http://cubiq.org/license), which basically means you can do whatever you want with it.
+The Add To Homescreen javascript component is released under [MIT license](http://cubiq.org/license), which basically means you can do whatever you want with it. 
