@@ -38,7 +38,7 @@ if ( !defined( 'WPINC' ) ) {
 
 class Cubiq_Add_To_Home {
 
-	const VERSION = '1.1.2';
+	const VERSION = '1.1.3';
 
 	public static function activate () {
 		global $wpdb;
